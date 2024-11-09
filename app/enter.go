@@ -23,7 +23,7 @@ func GetShortestPath() {
 	personIDList := utils.GetAttrNumber()
 	var totalPathLength int
 	var pathCount int
-	
+
 	for i := 0; i < len(personIDList)-1; i++ {
 		p1ID := personIDList[i]
 		for j := i + 1; j < len(personIDList); j++ {
@@ -33,7 +33,7 @@ func GetShortestPath() {
 				fmt.Printf("节点 %s 与 %s 之间没有路径\n", p1ID, p2ID)
 				continue
 			}
-			
+
 			// 只统计不超过6的路径长度
 			if short <= 6 {
 				totalPathLength += short
@@ -42,7 +42,7 @@ func GetShortestPath() {
 			fmt.Println(p1ID, "-->", p2ID, short)
 		}
 	}
-	
+
 	// 计算平均路径长度
 	if pathCount > 0 {
 		averagePathLength := float64(totalPathLength) / float64(pathCount)

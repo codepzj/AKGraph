@@ -29,13 +29,12 @@ AKGraph
 
 ## 实验结果
 ### 原生计算结果
-<img src="./result/result.png" alt="原生计算结果">
+<img src="https://image.codepzj.cn/image/202411092323402.png" alt="原生计算结果">
 
 ### neo4j图谱
-<img src="./result/graph.png" alt="neo4j图谱">
+<img src="https://image.codepzj.cn/image/202411092323450.png" alt="neo4j图谱">
 
 ### python导库验证
 
-<img src="./result/heatMap.png" alt="python导包验证">
-
+<img src="https://image.codepzj.cn/image/202411092324411.png" alt="python导包验证">
 

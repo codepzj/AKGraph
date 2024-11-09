@@ -12,5 +12,5 @@ func main() {
 	//fmt.Println(utils.GetAttrNumber())
 	fmt.Printf("平均路径长度：%.2f\n", 4.743643266345234732)
 	fmt.Println("符合六度分隔理论")
-	
+
 }
