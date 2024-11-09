@@ -32,7 +32,8 @@ AKGraph
 <img src="https://image.codepzj.cn/image/202411092323402.png" alt="原生计算结果">
 
 ### neo4j图谱
-![neo4j图谱](https://image.codepzj.cn/image/202411092331585.svg)
+https://image.codepzj.cn/image/202411092331585.svg
+图片11MB，请点击链接查看
 
 ### python导库验证
 
