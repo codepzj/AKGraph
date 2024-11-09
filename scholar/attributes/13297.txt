@@ -1,0 +1,17 @@
+广西大学
+电气
+工程学院
+博士生
+毕业
+浙江
+学士
+numerical
+testing
+conjugate
+gradient
+projection
+method
+convex
+constrained
+nonlinear
+equations

@@ -1,0 +1,17 @@
+递推
+stdio
+int
+return
+main
+scanf
+printf
+fun
+整数
+翻译
+string
+translate
+weeks
+trans
+中文
+break
+单词

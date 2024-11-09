@@ -1,0 +1,11 @@
+stdio
+int
+main
+float
+double
+unsigned
+printf
+nc
+nm
+np
+return

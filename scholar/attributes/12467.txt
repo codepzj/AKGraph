@@ -1,0 +1,14 @@
+bachelor
+engineering
+wuhan
+university
+china
+major
+internet
+master
+science
+michigan
+ann
+arbor
+computer
+vision

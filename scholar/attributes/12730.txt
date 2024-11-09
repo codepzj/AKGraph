@@ -1,0 +1,17 @@
+create
+view
+top
+percent
+student
+sname
+courseno
+cname
+score
+scorewhere
+final
+sc
+blog
+csdn
+net
+article
+details

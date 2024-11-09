@@ -1,0 +1,17 @@
+parallel
+cooperative
+particle
+swarm
+optimization
+algorithm
+distributed
+coevolutionary
+evolutionary
+multiobjective
+deployment
+heterogeneous
+directional
+sensor
+networks
+security
+monitoring

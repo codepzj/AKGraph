@@ -1,0 +1,9 @@
+stdio
+main
+int
+scanf
+printf
+press
+wrong
+word
+catch

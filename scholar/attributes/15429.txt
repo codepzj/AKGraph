@@ -1,0 +1,16 @@
+作业
+函数
+打印
+乘法
+输出
+stdio
+int
+print
+printf
+main
+scanf
+return
+判断
+自编
+互换
+调用

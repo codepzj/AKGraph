@@ -1,0 +1,8 @@
+family
+protein
+positively
+mediates
+signaling
+interacting
+kinase
+rice

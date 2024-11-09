@@ -1,0 +1,8 @@
+stdio
+int
+main
+sum
+scanf
+printf
+return
+max

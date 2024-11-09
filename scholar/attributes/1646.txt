@@ -1,0 +1,8 @@
+字符串
+大小写
+stdio
+string
+int
+main
+printf
+return

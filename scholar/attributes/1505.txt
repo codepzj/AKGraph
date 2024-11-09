@@ -1,0 +1,13 @@
+作业
+stdio
+unsigned
+int
+main
+void
+count
+flag
+scanf
+printf
+generated
+return
+test

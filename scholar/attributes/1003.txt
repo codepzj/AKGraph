@@ -1,0 +1,5 @@
+main
+int
+printf
+加密
+return

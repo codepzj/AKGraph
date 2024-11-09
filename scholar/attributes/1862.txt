@@ -1,0 +1,17 @@
+offloading
+applications
+cloud
+edge
+devices
+data
+placement
+strategy
+scientific
+workflow
+combining
+computing
+scheduling
+multiple
+clouds
+approach
+environments

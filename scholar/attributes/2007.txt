@@ -1,0 +1,13 @@
+adaptive
+dynamic
+programming
+continuous
+nonlinear
+dynamical
+systems
+optimal
+control
+unknown
+heterogeneous
+active
+leaders
